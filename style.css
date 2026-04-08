@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+ul, ol {
+   display: inline-block;
+   text-align: left;
+}
+a {
+    margin-right: 5px;
+}
+h1 {
+    color: red;
+}
+h2 {
+    color: purple;
+}
+h4 {
+   color: yellow; 
+}
+.solahizala {
+    text-align: left;
+}
+.ortala {
+    text-align: center;
+}
